@@ -7,6 +7,7 @@ Welcome to my NLP course project! This project focuses on using an LLM ( Llama g
 ## 📂 Project Files
 
 - **NLP_Nicolo_Guainazzo.ipynb**: Main Jupyter notebook.
+- **Report.docx**: final project report 
 
 ## 📧 Contact
 Nicolò Guainazzo
