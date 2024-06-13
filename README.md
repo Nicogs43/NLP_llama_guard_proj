@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-Welcome to my NLP course project! This project focuses on using an LLM ( llama guard developed by Meta ) to detect toxic chats based on a custom taxonomy. 
+Welcome to my NLP course project! This project focuses on using an LLM ( Llama guard 🦙 developed by Meta ) to detect toxic chats based on a custom taxonomy. 
 
 ## 📂 Project Files
 
@@ -10,4 +10,5 @@ Welcome to my NLP course project! This project focuses on using an LLM ( llama g
 
 ## 📧 Contact
 Nicolò Guainazzo
+
 Email: nico@guainazzo.it
